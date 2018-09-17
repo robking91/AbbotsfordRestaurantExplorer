@@ -1,0 +1,380 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Restaurant"
+- "RestaurantKeys"
+provides-nominal:
+- "21DomesticCatCodingTest10RestaurantC"
+- "21DomesticCatCodingTest14RestaurantKeysV"
+provides-member:
+- ["21DomesticCatCodingTest10RestaurantC", ""]
+- ["21DomesticCatCodingTest14RestaurantKeysV", ""]
+provides-dynamic-lookup:
+- "creationDate"
+- "isFavorite"
+- "primaryKey"
+- "restaurantAddress"
+- "restaurantImageURL"
+- "restaurantName"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "Date"
+- "Object"
+- "Restaurant"
+- "RestaurantKeys"
+- "String"
+- "StringLiteralType"
+- "TimeInterval"
+depends-member:
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "Date"]
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "Restaurant"]
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "RestaurantKeys"]
+- ["10RealmSwift28AssistedObjectiveCBridgeableP", ""]
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "creationDate"]
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "init"]
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "isFavorite"]
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "restaurantAddress"]
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "restaurantImageURL"]
+- !private ["10RealmSwift28AssistedObjectiveCBridgeableP", "restaurantName"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "Date"]
+- !private ["s7CVarArgP", "Restaurant"]
+- !private ["s7CVarArgP", "RestaurantKeys"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "creationDate"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isFavorite"]
+- !private ["s7CVarArgP", "restaurantAddress"]
+- !private ["s7CVarArgP", "restaurantImageURL"]
+- !private ["s7CVarArgP", "restaurantName"]
+- !private ["s7CVarArgP", "subscript"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "timeIntervalSince1970"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- !private ["s28CustomDebugStringConvertibleP", "Restaurant"]
+- !private ["s28CustomDebugStringConvertibleP", "RestaurantKeys"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "creationDate"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isFavorite"]
+- !private ["s28CustomDebugStringConvertibleP", "restaurantAddress"]
+- !private ["s28CustomDebugStringConvertibleP", "restaurantImageURL"]
+- !private ["s28CustomDebugStringConvertibleP", "restaurantName"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "timeIntervalSince1970"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- !private ["s23CustomStringConvertibleP", "Restaurant"]
+- !private ["s23CustomStringConvertibleP", "RestaurantKeys"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "creationDate"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isFavorite"]
+- !private ["s23CustomStringConvertibleP", "restaurantAddress"]
+- !private ["s23CustomStringConvertibleP", "restaurantImageURL"]
+- !private ["s23CustomStringConvertibleP", "restaurantName"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["10Foundation4DateV", "timeIntervalSince1970"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "timeIntervalSince1970"]
+- !private ["s10DictionaryV", "subscript"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "timeIntervalSince1970"]
+- !private ["s9EquatableP", "Date"]
+- !private ["s9EquatableP", "Restaurant"]
+- !private ["s9EquatableP", "RestaurantKeys"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "creationDate"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isFavorite"]
+- !private ["s9EquatableP", "restaurantAddress"]
+- !private ["s9EquatableP", "restaurantImageURL"]
+- !private ["s9EquatableP", "restaurantName"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "timeIntervalSince1970"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "Date"]
+- !private ["s8HashableP", "Restaurant"]
+- !private ["s8HashableP", "RestaurantKeys"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "creationDate"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "isFavorite"]
+- !private ["s8HashableP", "restaurantAddress"]
+- !private ["s8HashableP", "restaurantImageURL"]
+- !private ["s8HashableP", "restaurantName"]
+- !private ["s8HashableP", "timeIntervalSince1970"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["10RealmSwift10MinMaxTypeP", "init"]
+- !private ["10RealmSwift10MinMaxTypeP", "timeIntervalSince1970"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "Date"]
+- ["So8NSObjectC", "Restaurant"]
+- !private ["So8NSObjectC", "RestaurantKeys"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "TimeInterval"]
+- ["So8NSObjectC", "creationDate"]
+- ["So8NSObjectC", "fromDict"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isFavorite"]
+- ["So8NSObjectC", "primaryKey"]
+- ["So8NSObjectC", "restaurantAddress"]
+- ["So8NSObjectC", "restaurantImageURL"]
+- ["So8NSObjectC", "restaurantName"]
+- !private ["So16NSObjectProtocolP", "Date"]
+- !private ["So16NSObjectProtocolP", "Restaurant"]
+- !private ["So16NSObjectProtocolP", "RestaurantKeys"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "creationDate"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isFavorite"]
+- !private ["So16NSObjectProtocolP", "restaurantAddress"]
+- !private ["So16NSObjectProtocolP", "restaurantImageURL"]
+- !private ["So16NSObjectProtocolP", "restaurantName"]
+- ["10RealmSwift6ObjectC", "Bool"]
+- !private ["10RealmSwift6ObjectC", "Date"]
+- ["10RealmSwift6ObjectC", "Restaurant"]
+- !private ["10RealmSwift6ObjectC", "RestaurantKeys"]
+- ["10RealmSwift6ObjectC", "String"]
+- ["10RealmSwift6ObjectC", "TimeInterval"]
+- ["10RealmSwift6ObjectC", ""]
+- ["10RealmSwift6ObjectC", "creationDate"]
+- ["10RealmSwift6ObjectC", "fromDict"]
+- ["10RealmSwift6ObjectC", "init"]
+- ["10RealmSwift6ObjectC", "isFavorite"]
+- ["10RealmSwift6ObjectC", "primaryKey"]
+- ["10RealmSwift6ObjectC", "restaurantAddress"]
+- ["10RealmSwift6ObjectC", "restaurantImageURL"]
+- ["10RealmSwift6ObjectC", "restaurantName"]
+- ["So13RLMObjectBaseC", "Bool"]
+- !private ["So13RLMObjectBaseC", "Date"]
+- ["So13RLMObjectBaseC", "Restaurant"]
+- !private ["So13RLMObjectBaseC", "RestaurantKeys"]
+- ["So13RLMObjectBaseC", "String"]
+- ["So13RLMObjectBaseC", "TimeInterval"]
+- ["So13RLMObjectBaseC", "creationDate"]
+- ["So13RLMObjectBaseC", "fromDict"]
+- ["So13RLMObjectBaseC", "init"]
+- ["So13RLMObjectBaseC", "isFavorite"]
+- ["So13RLMObjectBaseC", "primaryKey"]
+- ["So13RLMObjectBaseC", "restaurantAddress"]
+- ["So13RLMObjectBaseC", "restaurantImageURL"]
+- ["So13RLMObjectBaseC", "restaurantName"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10RealmSwift0A15CollectionValueP", "Date"]
+- !private ["10RealmSwift0A15CollectionValueP", "Restaurant"]
+- !private ["10RealmSwift0A15CollectionValueP", "RestaurantKeys"]
+- ["10RealmSwift0A15CollectionValueP", ""]
+- !private ["10RealmSwift0A15CollectionValueP", "creationDate"]
+- ["10RealmSwift0A15CollectionValueP", "init"]
+- !private ["10RealmSwift0A15CollectionValueP", "isFavorite"]
+- !private ["10RealmSwift0A15CollectionValueP", "restaurantAddress"]
+- !private ["10RealmSwift0A15CollectionValueP", "restaurantImageURL"]
+- !private ["10RealmSwift0A15CollectionValueP", "restaurantName"]
+- !private ["10RealmSwift0A15CollectionValueP", "timeIntervalSince1970"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- ["21DomesticCatCodingTest10RestaurantC", "Bool"]
+- !private ["21DomesticCatCodingTest10RestaurantC", "Date"]
+- ["21DomesticCatCodingTest10RestaurantC", "Restaurant"]
+- !private ["21DomesticCatCodingTest10RestaurantC", "RestaurantKeys"]
+- ["21DomesticCatCodingTest10RestaurantC", "String"]
+- ["21DomesticCatCodingTest10RestaurantC", "TimeInterval"]
+- ["21DomesticCatCodingTest10RestaurantC", "creationDate"]
+- ["21DomesticCatCodingTest10RestaurantC", "deinit"]
+- ["21DomesticCatCodingTest10RestaurantC", "fromDict"]
+- ["21DomesticCatCodingTest10RestaurantC", "init"]
+- ["21DomesticCatCodingTest10RestaurantC", "isFavorite"]
+- ["21DomesticCatCodingTest10RestaurantC", "primaryKey"]
+- ["21DomesticCatCodingTest10RestaurantC", "restaurantAddress"]
+- ["21DomesticCatCodingTest10RestaurantC", "restaurantImageURL"]
+- ["21DomesticCatCodingTest10RestaurantC", "restaurantName"]
+- ["21DomesticCatCodingTest14RestaurantKeysV", "address"]
+- ["21DomesticCatCodingTest14RestaurantKeysV", "init"]
+- ["21DomesticCatCodingTest14RestaurantKeysV", "location"]
+- ["21DomesticCatCodingTest14RestaurantKeysV", "mainImage"]
+- ["21DomesticCatCodingTest14RestaurantKeysV", "restaurant"]
+- ["21DomesticCatCodingTest14RestaurantKeysV", "restaurantName"]
+- ["21DomesticCatCodingTest14RestaurantKeysV", "restaurants"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["10RealmSwift14ThreadConfinedP", "Date"]
+- !private ["10RealmSwift14ThreadConfinedP", "Restaurant"]
+- !private ["10RealmSwift14ThreadConfinedP", "RestaurantKeys"]
+- ["10RealmSwift14ThreadConfinedP", ""]
+- !private ["10RealmSwift14ThreadConfinedP", "creationDate"]
+- !private ["10RealmSwift14ThreadConfinedP", "init"]
+- !private ["10RealmSwift14ThreadConfinedP", "isFavorite"]
+- !private ["10RealmSwift14ThreadConfinedP", "restaurantAddress"]
+- !private ["10RealmSwift14ThreadConfinedP", "restaurantImageURL"]
+- !private ["10RealmSwift14ThreadConfinedP", "restaurantName"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Restaurant"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RestaurantKeys"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "creationDate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isFavorite"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restaurantAddress"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restaurantImageURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "restaurantName"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince1970"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "10RealmSwift28AssistedObjectiveCBridgeableP"
+- "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- !private "10RealmSwift10MinMaxTypeP"
+- "s10MirrorPathP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "10RealmSwift6ObjectC"
+- "So13RLMObjectBaseC"
+- "s26RangeReplaceableCollectionP"
+- "10RealmSwift0A15CollectionValueP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "21DomesticCatCodingTest10RestaurantC"
+- "21DomesticCatCodingTest14RestaurantKeysV"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "10RealmSwift14ThreadConfinedP"
+- "9Alamofire14URLConvertibleP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Modules/RealmSwift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Headers/RealmSwift-umbrella.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSchema.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMObjectSchema.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMObjectBase_Dynamic.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealm_Dynamic.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealm+Sync.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealmConfiguration+Sync.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/NSError+RLMSync.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMThreadSafeReference.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMObjectStore.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMOptionalBase.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMObjectBase.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMListBase.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMSchema_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMObjectSchema_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMObjectBase_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMSyncUtil_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMRealm_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMSyncConfiguration_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMRealmConfiguration_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMCollection_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMResults_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMObject_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMArray_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMProperty_Private.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncUtil.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/Realm.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealm.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMPlatform.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncSession.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncPermission.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMMigration.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncConfiguration.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMRealmConfiguration.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMCollection.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncSubscription.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncManager.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncUser.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/PrivateHeaders/RLMAccessor.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMSyncCredentials.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMResults.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMConstants.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMObject.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Headers/RealmSwift-Swift.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMArray.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Headers/RLMProperty.h"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/Realm/Realm.framework/Modules/module.modulemap"
+- "/Users/robertking/DomesticCatCodingTest/Build/Products/Debug-iphonesimulator/RealmSwift/RealmSwift.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "7f7c0e3437241b77a5d0e056807761e4"

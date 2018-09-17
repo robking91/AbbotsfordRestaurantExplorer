@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "8aba0cb71f06539af95b5c5a2f73f003"
+build_time: [1537193233, 52663000]
+inputs:
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/View/RestaurantCell.swift": [1537192210, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/ViewModel/RestaurantDataManager.swift": [1537191624, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/FavoritesList/ViewModels/FavoritesListViewModel.swift": [1537191796, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/FavoritesList/Views/FavoritesListViewController.swift": [1537192429, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/Shared/StateBasedViewModeling.swift": [1537172209, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/View/RestaurantTableViewCell.swift": [1537173618, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/Model/Restaurant.swift": [1537183685, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/AppDelegate.swift": [1537152272, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/ViewModel/RestaurantListViewModel.swift": [1537191983, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/Shared/UIImage+Extensions.swift": [1537182592, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/View/RestaurantListViewController.swift": [1537191486, 0]
+  "/Users/robertking/DomesticCatCodingTest/DomesticCatCodingTest/Shared/Constants.swift": [1537172713, 0]

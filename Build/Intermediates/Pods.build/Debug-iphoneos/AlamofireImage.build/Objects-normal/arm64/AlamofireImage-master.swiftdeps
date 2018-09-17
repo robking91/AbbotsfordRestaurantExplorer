@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "68fab391b18a4bf5e739a6861718e241"
+build_time: [1537160861, 97372000]
+inputs:
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/AFIError.swift": [1537160852, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/Image.swift": [1537160852, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/ImageCache.swift": [1537160852, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/ImageDownloader.swift": [1537160852, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/ImageFilter.swift": [1537160852, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1537160852, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1537160852, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1537160852, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1537160852, 0]

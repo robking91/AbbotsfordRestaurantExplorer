@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "9760fad1134cfba67cf45d3f79ddb2bf"
+build_time: [1537161368, 341115000]
+inputs:
+  "/Users/robertking/.Trash/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/Model/Restaurant.swift": [1537152083, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/DomesticCatCodingTest/AppDelegate.swift": [1537152272, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/ViewModel/RestaurantListViewModel.swift": [1537161319, 0]
+  "/Users/robertking/.Trash/DomesticCatCodingTest/DomesticCatCodingTest/RestaurantList/View/RestaurantListViewController.swift": [1537161339, 0]
